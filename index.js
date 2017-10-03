@@ -1,3 +1,3 @@
 function shout(string){
-  return string.toupper 
+  return string.toupper
 }
